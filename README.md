@@ -1,3 +1,12 @@
-### Binary-tree-calculator
-The program purpose is to use the Binary Tree Data structure to make a calculator applications that deals with most of mathematical operations like (addition,subtraction,multiply,division,power) also can deal with parentheses in any mathematical equation.
-This application was made as a project for the Data structures & Algorithms course in the college
+### Data_structures_college_course
+
+this repository is made for the contents of Tanta university data_structures and algorithms course
+1-Binary search & Sequential search
+2- Sorting (Bubble & insertion & merge & quick & selection)
+3-Stack including the idea of infix to postfix & postfix evaluation
+4-printer simulator using Queue
+5-Linked list
+6- Binary Tree (Ex:parse tree) & Binary Search tree
+7-quiz of two questions on stack&Linked lists
+8- Binary tree calculator project
+
